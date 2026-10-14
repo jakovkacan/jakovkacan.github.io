@@ -1,0 +1,11 @@
+title: SonoMap
+description: High-Dimensional Audio Feature Extraction for Music Similarity Visualisation — Jakov Kačan, Algebra Bernays University, 2026
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  auto_ids: true
+  hard_wrap: false
+exclude:
+  - README.md

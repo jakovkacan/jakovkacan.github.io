@@ -35,7 +35,6 @@ Conventional music library management relies on human-assigned metadata (genre t
 
 ## Table of Contents {#table-of-contents}
 
-- [Sažetak](#sazetak)
 - [Abstract](#abstract)
 - [1. Introduction](#sec-1)
 - [2. Music information retrieval and data preparation](#sec-2)
